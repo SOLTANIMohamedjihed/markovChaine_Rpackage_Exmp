@@ -1,5 +1,5 @@
 library(markovchain)
-library(diagram)
+#library(diagram)
 
 #transition matrix
 tmA <- matrix(c(0.25,0.65,0.1,.25,0.25,.5,.35,.25,0.4),nrow = 3, byrow = TRUE)
